@@ -12,16 +12,16 @@
 ***
 ### 利用方法
 ##### Unityroomというサイト上で限定公開（URLを知っている人のみ閲覧できる状態）しています。下記のURLからプレイ可能です。
-[https://unityroom.com/games/shifttablepuzzle](https://unityroom.com/games/shifttablepuzzle)
+##### [https://unityroom.com/games/shifttablepuzzle](https://unityroom.com/games/shifttablepuzzle)
 ***
 ### プログラムの工夫
 ##### それぞれのスクリプトの役割を明確に分け、それぞれのスクリプトが与えられた役割だけを担うよう設計しました。
-例：PuzzlePieceスクリプトはピースの移動などの役割は担うがピースの生成やパズル完成の確認などは行わないよう注意。
+##### 例：PuzzlePieceスクリプトはピースの移動などの役割は担うがピースの生成やパズル完成の確認などは行わないよう注意。
 ***
 ### 環境
 ##### 開発言語：C#
-使用ソフト：Unity, Visual Studio
-公開先：Unityroom
+##### 使用ソフト：Unity, Visual Studio
+##### 公開先：Unityroom
 ***
 ### おわりに
 ##### この作品制作を通じ、プログラミングの基本を学ぶことができました。また、コードの流れの美しさ、汎用性がいかに効率的な開発に繋がるかを学びました。まだまだ、汚いコードだと感じますが、これからその腕を磨いていきたいと思っています。
