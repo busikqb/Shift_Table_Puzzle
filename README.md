@@ -14,6 +14,9 @@
 ##### Unityroomというサイト上で限定公開（URLを知っている人のみ閲覧できる状態）しています。下記のURLからプレイ可能です。
 ##### [https://unityroom.com/games/shifttablepuzzle](https://unityroom.com/games/shifttablepuzzle)
 ***
+### プログラムの工夫
+##### それぞれのスクリプトの役割を明確に分け、それぞれのスクリプトが与えられた役割だけを担うよう設計しました。
+***
 ### 環境
 ##### 開発言語：C#
 ##### 使用ソフト：Unity, Visual Studio
