@@ -14,6 +14,9 @@
 ##### Unityroomというサイト上で限定公開（URLを知っている人のみ閲覧できる状態）しています。下記のURLからプレイ可能です。
 ##### [https://unityroom.com/games/shifttablepuzzle](https://unityroom.com/games/shifttablepuzzle)
 ***
+### 動画
+##### (https://github.com/busikqb/Shift_Table_Puzzle/issues/3#issue-4320416294)
+***
 ### プログラムの工夫
 ##### それぞれのスクリプトの役割を明確に分け、それぞれのスクリプトが与えられた役割だけを担うよう設計しました。
 ##### 例：PuzzlePieceスクリプトはピースの移動などの役割は担うがピースの生成やパズル完成の確認などは行わないよう注意。
